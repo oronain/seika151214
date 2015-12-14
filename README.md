@@ -7,16 +7,17 @@
 #####1日目 
 - **自己紹介**
 - **授業全体の話**
-- **リサーチ&SNSの使い方**
-  - SNSの使い方紹介
-  - お題
-  - 代表的なSNSを使ってみる
 - **お題**
   - サンプル
+  - 生徒作品例
+- **リサーチ&SNSの使い方**
+  - SNSの使い方紹介
+  - 代表的なSNSを使ってみる
 - **ブレインストーミング**
   - 企画を考えよう
   - ドメインを探そう！
 - **デザインをする**
+	- PhotoshopでWebデザイン 
 
 ※2日目の授業前までにテーマを提出
 
@@ -49,33 +50,9 @@ Webデザイナー
 **Tadaima Japan**  
 [http://tadaimajp.com/](http://tadaimajp.com/)
 
-**docomyanmar**  
-[http://docomyanmar.com/popamt/](http://docomyanmar.com/popamt/)
+---
 
-
-
-###リサーチ&SNSの使い方
-
-![](img/slide02.png)
-
-####SNSの使い方紹介
-- Twitter検索
-- Instagram検索
-- Google Map検索
-- pinterest
-- poket
-- feedly
-- はてぶ
-- delicious
-- Evernote
-- youtube
-- Foursquare
-
-どこまでしってるかな？？
-
---
-
-####お題
+###お題
 #####外国人向けに日本の観光スポットを俺視点で紹介
 
 2014年、ついて訪日観光客が1,000万人を超えた。（1341万人）
@@ -107,12 +84,32 @@ Webデザイナー
 駄菓子というテーマ自体は面白くはないが、ターゲット、メディアとしての今後の展開やビジュアルデザインがとても丁寧に考え、作られており、完成度が高い。唯一CSSも独自でカスタマイズして、楽しいサイトに仕上がった。  
 [http://oronain.com/seikauni/151021/215q029/](http://oronain.com/seikauni/151021/215q029/)
 
+---
+
+###リサーチ&SNSの使い方
+
+![](img/slide02.png)
+
+####SNSの使い方紹介
+- Twitter検索
+- Instagram検索
+- Google Map検索
+- pinterest
+- poket
+- feedly
+- はてぶ
+- delicious
+- Evernote
+- youtube
+- Foursquare
+
+どこまでしってるかな？？
+
 --
 
 #### 代表的なSNSを使って見る
 
 Googlemap、Instagram、Twittwrを使って検索してみよう！
-
 
 --
 
@@ -121,7 +118,6 @@ Googlemap、Instagram、Twittwrを使って検索してみよう！
 (例)
 
 - 軍艦島
-- パックマン
 - ポケモンチャレンジ
 - googlemapでも火星や月が見れる
 - [group_inou / EYE (PV)](https://goo.gl/ELefFi)  
@@ -230,35 +226,35 @@ Google トレンド - 急上昇ワード
 このA4一枚を見ただけで、別の誰かがサイトをイメージできるように。
 
 
-####コンセプト
+#####コンセプト
 サイトのコンセプトを表す言葉を完結に書いてください
 
 例） 日本のファーストフード「おにぎり」を世界に広めるサイト
 
 
-####サイト名
+#####サイト名
 例）おにぎりジャパン
 
 
-####ターゲット
+#####ターゲット
 ターゲットとなるユーザーを記入
 
 例）欧米（アメリカ、イギリス、カナダ、オーストラリア）の20代
 
 
-####場所やモノ
+#####場所やモノ
 このサイトで何を紹介するか記入
 
 例）コンビニのおにぎり
 
 
-####ドメイン
+#####ドメイン
 ムームードメインで取得可能なドメインを1つ探して記入
 
 例）onigirijp.com
 
 
-####企画概要
+#####企画概要
 サイトの企画内容をできるだけ具体的に記入
 
 例）日本のファーストフードとも言えるおにぎり。
@@ -269,7 +265,7 @@ Google トレンド - 急上昇ワード
 
 --
 
-####POINT!!
+#####POINT!!
 
 - コンセプトだけでなく、アウトプットが面白くなっているか
 - GoogleMap、Instagram、Twitterの結果は、コンセプトに紐付いているか
@@ -277,7 +273,7 @@ Google トレンド - 急上昇ワード
 
 --
 
-#####ドメインを探そう！
+####ドメインを探そう！
 
 Webサービス作る時は、ドメイン名（URLアドレス）が取得できるかどうかも大事。  
 サイト名にあったドメインを探そう。
@@ -298,10 +294,8 @@ onigiri.gallery
 onigiri.pictures
 ```
 
+2日目の授業前までにテーマを提出
 
-####2日目の授業前までにテーマを提出
-
-![企画シート](img/kikaku.png)
 
 
 ###デザインをする
@@ -318,7 +312,7 @@ onigiri.pictures
 その他のデザイン修正は、HTMLとCSSの技術が必要。  
 変更したい方は講師に個別で質問してください。
 
-###PhotoshopでWebデザイン
+####PhotoshopでWebデザイン
 
 
 #####1.表示サイズ
@@ -443,10 +437,10 @@ Twitterのウィジェット公式ページ
 ※Twitterのアカウントが必要です
 
 1. ウィジット 新規作成 > 検索タブ
-1. 設定 検索クエリにハッシュタグを入れる
-1. ウェジットを作成ボタンをクリック
-1. ソースコードを選択してコピー
-1. HTMLの「Twitter」と書かれた場所にペースト
+2. 設定 検索クエリにハッシュタグを入れる
+3. ウェジットを作成ボタンをクリック
+4. ソースコードを選択してコピー
+5. HTMLの「Twitter」と書かれた場所にペースト
 
 ```
 <!-- Twitter -->
@@ -462,6 +456,24 @@ Twitterのウィジェット公式ページ
 Instagramを簡単に表示するためのJavaScriptプラグイン  
 [http://instafeedjs.com/](http://instafeedjs.com/)
 
+```
+<script type="text/javascript">
+  var feed = new Instafeed({
+      get: 'tagged',
+      tagName: 'onigirijp', //ハッシュタグ
+      clientId: 'b6e1f6100e8e47c6aca3f3ff8c021bce', //講師のID
+      template: '<li class="col-md-4 mb20">\
+      <a href="{{link}}"><img src="{{image}}" class="img-thumbnail mb10" /></a>\
+      <p class="insta-text">{{caption}}<br>\
+      <span class="glyphicon glyphicon-heart" aria-hidden="true"></span> {{likes}} / <span class="glyphicon glyphicon-comment" aria-hidden="true"></span> {{comments}}</p>\
+      <li>',
+      resolution: 'standard_resolution',
+      sortBy: 'most-liked', //写真のソート順
+      limit: '9' //画像の表示数
+  });
+  feed.run();
+</script>
+```
 
 ---
 
